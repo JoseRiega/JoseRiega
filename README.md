@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" style="max-height:320px; object-fit:cover;" />
+<img src="assets/images/banner.png" width="100%" style="max-height:320px; object-fit:cover;" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00F0FF&width=520&lines=Hi%2C+I'm+JoseRiega.;Software+Engineer.;Building+scalable+and+clean+systems." />
 
