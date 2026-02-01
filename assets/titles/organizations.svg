@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#00f0ff">
+        <animate attributeName="stop-color" values="#00f0ff;#7c3aed;#00f0ff" dur="2.8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#00f0ff;#7c3aed" dur="2.8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00f0ff">
+        <animate attributeName="stop-color" values="#00f0ff;#7c3aed;#00f0ff" dur="2.8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="0" y="48" font-size="40" font-family="Fira Code, monospace" font-weight="700" fill="url(#g)">
+    Organizations
+  </text>
+</svg>
